@@ -25,7 +25,7 @@ from sgtk.platform import Application
 logger = sgtk.platform.get_logger(__name__)
 
 
-class SetDVSRootApp(Application):
+class ChooseFolderApp(Application):
     """
     Multi App to launch applications.
     """
