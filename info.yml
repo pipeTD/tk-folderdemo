@@ -21,8 +21,8 @@ supported_engines:
 requires_shotgun_fields:
 
 # More verbose description of this item
-display_name: "Set DreamView Studios Basedir"
-description: "Application to select the base directory for DVS working files."
+display_name: "Set DreamView StuBasedir"
+description: "Test Application to select the base directory."
 
 # Required minimum versions for this item to run
 requires_shotgun_version:
